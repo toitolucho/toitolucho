@@ -4,7 +4,7 @@
 
 I am a passionate **Data Engineer** with strong expertise in **C#, .NET, SQL Server**, and **ETL automation** with a strong foundation in software development and over **10 years of experience** designing and implementing data-driven solutions. I specialize in building **high-performance, multi-threaded applications** for data ingestion, transformation, and integration with enterprise systems. Experienced in **Azure cloud services, Spark-like parallel processing**, and large-scale data pipelines.
 
-
+---
 ### 🚀 What I Do
 
 - 🧠 **ETL & Data Engineering:** FiveTran, DBT, SSIS, Data Vault modeling, and SQL performance tuning  
