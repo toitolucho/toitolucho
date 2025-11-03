@@ -2,9 +2,7 @@
 
 ### 💾 Data Engineer | Software Developer | ETL & Automation Specialist  
 
-I’m a **Data Engineer** with a strong foundation in software development and over **10 years of experience** designing and implementing data-driven solutions.  
-My focus is on **automating ETL/ELT pipelines**, integrating multi-source data, and improving performance in enterprise data systems.  
-
+I am a passionate **Data Engineer** with strong expertise in **C#, .NET, SQL Server**, and **ETL automation** with a strong foundation in software development and over **10 years of experience** designing and implementing data-driven solutions. I specialize in building **high-performance, multi-threaded applications** for data ingestion, transformation, and integration with enterprise systems. Experienced in **Azure cloud services, Spark-like parallel processing**, and large-scale data pipelines.
 ---
 
 ### 🚀 What I Do
@@ -13,7 +11,7 @@ My focus is on **automating ETL/ELT pipelines**, integrating multi-source data, 
 - 💻 **Software Development:** C#, .NET Framework/Core, Python, and automation tools  
 - 🧩 **Integration:** Salesforce API, Jack Henry Xperience (JXChange), REST/JSON/XML  
 - ☁️ **Data Platforms & Cloud:** Azure Service Bus, SQL Server, PostgreSQL, MySQL  
-- ⚙️ **Automation:** GoAnywhere, script generation, and process orchestration  
+- ⚙️ **Automation:** GoAnywhere, script generation, and process orchestration
 
 ---
 
@@ -43,7 +41,11 @@ University project to visualize faculty schedules and student assignments via XM
 | **Automation & Integration** | GoAnywhere, JXChange, Salesforce API |
 | **Cloud & Messaging** | Azure Service Bus, REST, JSON, XML |
 | **Tools** | Visual Studio, Git, SSMS, InstallShield |
-
+| **ETL & Data:** |SSIS, DBT, FiveTran, Data ingestion, Batch processing, Data warehousing |
+| **Windows Development:** |WinForms, WPF, WinUI 3, COM Interop  |
+| **APIs & Integrations:** |Salesforce API, JXChange API, XML/JSON serialization, TCP/IP  |
+| **Cloud & Messaging:** |Azure Data Factory, Azure SQL Database, Azure Service Bus, Databricks  |
+| **Tools & Practices:** |Git, VS, Profiling & Debugging, Agile/Scrum, CI/CD, Performance tuning  |
 ---
 
 ### 🌍 Connect with Me
